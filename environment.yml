@@ -1,0 +1,18 @@
+channels:
+  - defualt
+  - conda-forge
+dependencies:
+  - python=3.7
+  - mkl 
+  - mkl_fft
+  - mkl_random 
+  - tensorflow<2.0
+  - keras
+  - dask
+  - ipyparallel
+  - jupyterlab>=1.1.0
+  - qgrid
+  - bqplot
+  - pip
+  - pip:
+    - git+https://github.com/Jupyter-Kale/kale
