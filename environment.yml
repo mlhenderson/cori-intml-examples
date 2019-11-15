@@ -1,6 +1,6 @@
 channels:
-  - defualt
   - conda-forge
+  - default
 dependencies:
   - python=3.7
   - mkl 
