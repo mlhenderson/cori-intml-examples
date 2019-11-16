@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/global/common/software/m3384/cori_intml_examples/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "cori_intml_examples",
+ "language": "python"
+}
