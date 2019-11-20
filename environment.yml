@@ -15,4 +15,4 @@ dependencies:
   - bqplot
   - pip
   - pip:
-    - git+https://github.com/Jupyter-Kale/kale
+    - git+https://github.com/Jupyter-Kale/kale@services
